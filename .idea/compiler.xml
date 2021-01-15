@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ecommerceTeste" />
+        <module name="cietChallengeTests" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ecommerceTeste" target="13" />
+      <module name="cietChallengeTests" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>

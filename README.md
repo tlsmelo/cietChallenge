@@ -1,15 +1,14 @@
-# ecommerceTeste
-Execução de Teste em E-Commerce
+# CI&T Challenge
 
-Framework de execução:
+Framework:
 - IntelliJ Idea Community 2020.1
-- Browser Chrome 83.0.4103.61 (64 bits)
+- Browser Chrome 87.0.4280.141 (64 bits)
 - JDK 13
-- Versões e outras informações no pom.xml
+- Maven projects info in the pom.xml
 
-Antes de executar:
+Before execute:
 
-- Adicionar a seguinte informação no caminho Run - Edit Configurations - Cucumber Java - VM Options
+- In Intellij go to Run - Edit Configurations - Cucumber Java - VM Options
 ```
 -Dwebdriver.chrome.driver=src/test/drivers/chromedriver.exe -Dwebdriver=chrome
 ```
